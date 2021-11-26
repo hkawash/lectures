@@ -1,6 +1,6 @@
-# 川嶋担当講義
+# 担当講義一覧（川嶋宏彰）
 
-兵庫県立大学にて川嶋宏彰の担当する講義の一部です．
+兵庫県立大学にて[川嶋](https://hk.interaction-lab.org)の担当する講義です．
 
 ## 社会情報科学部
 
@@ -38,4 +38,4 @@
 
 ## Links
 
-- [研究室HP](http://interaction-lab.org/ja)
+- [研究室HP](https://interaction-lab.org)
