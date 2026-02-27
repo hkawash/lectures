@@ -1,6 +1,16 @@
-# 授業の雰囲気
-
 [メインページへ](README.md)
+
+# 科目間のつながりと授業の雰囲気
+
+## 科目間のつながり
+
+- 1年前期の社会情報科学概論では，1年後期以降の科目で学ぶ内容の概要をつかみます．
+- 1年後期の確率・統計は，2年生以降のデータ分析演習や機械学習などで必要な統計学の基礎を学びます．
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
+  <img src="images/overview1.png" alt="科目のつながり（川嶋担当分）" style="flex: 1; min-width: 300px; width: calc(50% - 5px); border-radius: 4px; object-fit: cover;" loading="lazy">
+  <img src="images/overview2.png" alt="科目のつながり（川嶋担当分）" style="flex: 1; min-width: 300px; width: calc(50% - 5px); border-radius: 4px; object-fit: cover;" loading="lazy">
+</div>
 
 ## 社会情報科学概論でのプログラミング演習
 

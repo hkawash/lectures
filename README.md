@@ -2,13 +2,7 @@
 
 [兵庫県立大学社会情報科学部](https://www.u-hyogo.ac.jp/sis/)にて[川嶋](https://interaction-lab.org)の担当する講義です．
 
-- 1年前期の社会情報科学概論では，1年後期以降の科目で学ぶ内容の概要をつかめます．
-- 1年後期の確率・統計は，2年生以降のデータ分析演習や機械学習などで必要な統計学の基礎を学びます．
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
-  <img src="images/overview1.png" alt="科目のつながり（川嶋担当分）" style="flex: 1; min-width: 300px; width: calc(50% - 5px); border-radius: 4px; object-fit: cover;" loading="lazy">
-  <img src="images/overview2.png" alt="科目のつながり（川嶋担当分）" style="flex: 1; min-width: 300px; width: calc(50% - 5px); border-radius: 4px; object-fit: cover;" loading="lazy">
-</div>
+[科目間のつながりの図はこちら](class-scene.md#科目間のつながり)．
 
 クリックできる科目名からは，詳細なトピックを確認できます．資料の確認には，Google Classroomや講義中に配布されるパスワード，もしくはLMS（ユニバーサルパスポート）でのログインが必要です．
 
@@ -68,6 +62,8 @@
     - Aコース: 深層学習，各種画像処理や認識，生成AIなどを組み合わせ，独自の LINE Bot を各自作成します．
     - Bコース: 機械学習やコンピュータビジョンをはじめとした研究に取り組みます．
     - Cコース: オープンデータやコンペティション参加などを通じて，データ分析や機械学習の精度を競います．
+
+
 
 ## Links
 
